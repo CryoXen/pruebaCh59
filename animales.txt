@@ -2,3 +2,4 @@ Perrito
 Gato
 Perico
 Amplibigio
+Medusa (Añadido desde GitHub)
