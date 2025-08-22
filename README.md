@@ -97,18 +97,3 @@ graph TD;
 
 ---
 
-## 🎨 Texto estilizado con Unicode
-𝔼𝓼𝓽𝓮 𝓻𝓮𝓹𝓸 𝓮𝓼 𝓹𝓪𝓻𝓪 𝓹𝓻𝓪𝓬𝓽𝓲𝓬𝓪𝓻  
-𝐺𝑖𝑡 𝑦 𝐺𝑖𝑡𝐻𝑢𝑏 💻  
-
----
-
-## 🛠 Próximos pasos
-- [ ] Probar todos los comandos  
-- [ ] Crear ramas y hacer merge  
-- [ ] Hacer un fork y practicar PR (pull requests)  
-- [ ] Romper y arreglar 😎  
-
----
-
-💡 *Recuerda: Git es como un diario de tus proyectos, cada commit cuenta tu historia.*  
