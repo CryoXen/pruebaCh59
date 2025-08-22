@@ -3,3 +3,4 @@ Gato
 Perico
 Amplibigio
 Medusa (Añadido desde GitHub)
+Capibara (Añadido desde la rama chris)
